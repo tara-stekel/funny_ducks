@@ -3,5 +3,4 @@
 Just a compilation of ducks using The TikZducks package in LaTex.
 
 
-
-![Screenshot 2023-01-06 174911](https://user-images.githubusercontent.com/121750452/211112887-3b7fcd75-be49-4fe9-9f6b-f55031cafdc1.png)
+![Screenshot_2023-01-06_174911-removebg-preview](https://user-images.githubusercontent.com/121750452/211113457-0a1a7240-277f-4240-9e5f-566b17724ca3.png)
