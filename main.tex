@@ -55,7 +55,16 @@
                 recedinghair=white,beard]
                 \node[cloud callout, inner sep= 0pt, fill=cyan!20, aspect=4,  cloud puff arc=90, text width=5cm, text centered, xshift=2cm, yshift=2.5cm, callout relative pointer={(-.2,-.5)}] at (bill) {Dive deep into the \\pond of knowledge};
         \end{tikzpicture}
-
+        \item Recursive duck\\
+        \begin{tikzpicture}
+        \duck[body=orange!50!yellow]
+        \duck[xshift=10pt, scale=.67, yshift=0pt]
+        \duck[body=orange!50!yellow,
+        xshift=20pt, scale=.4, yshift=0pt]
+        \duck[xshift=27pt, scale=.2, yshift=0pt]
+        \duck[body=orange!50!yellow,
+        xshift=30pt, scale=.1, yshift=0pt]
+\end{tikzpicture}
 \end{enumerate}
 
 \end{document}
