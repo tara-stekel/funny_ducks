@@ -1,6 +1,6 @@
 # funny_ducks
 
-Just a compilation of ducks using The TikZducks package in LaTex.
+Just a compilation of ducks that came to mind using The TikZducks package in LaTex.
 
 
 
