@@ -16,6 +16,7 @@
 \newtcblisting{mybox}{colback=white,minted language=latex,listing side text,righthand width=.2\textwidth}
 
 \usepackage{tikzducks}
+\usepackage{tikz}
 \usetikzlibrary {shapes.callouts}
 
 
@@ -23,9 +24,11 @@
 
 
 \begin{enumerate}
-    \item Fancy duck\\
+    \item Tara duck\\
         \begin{tikzpicture}
             \duck[longhair]
+            \node[inner sep=0pt] (russell) at (0,0)
+            {\includegraphics[width=.1\textwidth]{laptop.png}};
         \end{tikzpicture}
     \item Produckt manager \\
         \begin{tikzpicture}
